@@ -2,4 +2,4 @@
 
 
 main :: IO ()
-main = putStrLn "Hola, este es mi proyecto para la tarea de GitHub"
+main = putStrLn "Hola, soy Karla, este es mi proyecto para la tarea de GitHub"
